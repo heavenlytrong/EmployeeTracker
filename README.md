@@ -7,7 +7,7 @@ I want to be able to view and manage the departments, roles, and employees in my
 I want to be able to organize and manage my business. 
 
 ## Screenshots 
-
+![](./)
 ## Installation and Usage.
 
 ## Credits

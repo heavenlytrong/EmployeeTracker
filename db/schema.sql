@@ -1,5 +1,5 @@
 USE company;
-DROP TABLE IF EXISTS dpartments;
+DROP TABLE IF EXISTS departments;
 DROP TABLE IF EXISTS roles;
 DROP TABLE IF EXISTS employees;
 
