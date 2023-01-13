@@ -14,5 +14,5 @@ I want to be able to organize and manage my business.
 
 ## FAQS & Links
 
-- [Github]
-- [Repository]
+- [Github] (https://github.com/heavenlytrong)
+- [Repository] (https://github.com/heavenlytrong/EmployeeTracker)
