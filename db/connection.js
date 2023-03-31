@@ -7,10 +7,10 @@ const db = mysql.createConnection(
   {
     host: "localhost",
     // Your MySQL username
-    user: "",
+    user: "root",
     // Your MySQL password
-    password: "",
-    database: ""
+    password: "Trongredwood02",
+    database: "company"
   },
   console.log("Employee Tracker connected!")
 );
